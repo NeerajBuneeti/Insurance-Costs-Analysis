@@ -112,33 +112,3 @@ The analysis highlights smoking status, age, BMI, and number of children as prim
    python analysis.py
    ```
 4. View results in the output directory (`/results`).
-
----
-
-Feel free to contribute by submitting issues or pull requests!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33749695/70682a89-c717-4ccf-8966-5eab62fc04c2/annotated-Analysis-20of-20Insurance-20Costs.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33749695/8c6fa2ea-0227-4cab-9f71-46c9cb395678/Project-1.html
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33749695/56683318-6168-4932-ba0c-0635e6951090/insurance_project-1.html
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33749695/70682a89-c717-4ccf-8966-5eab62fc04c2/annotated-Analysis-20of-20Insurance-20Costs.pdf
-[5] https://www.hatica.io/blog/best-practices-for-github-readme/
-[6] https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-[7] https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/
-[8] https://www.makeareadme.com
-[9] https://github.com/banesullivan/README
-[10] https://github.com/othneildrew/Best-README-Template
-[11] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[12] https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-[13] https://www.youtube.com/watch?v=rCt9DatF63I
-[14] https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github
-[15] https://www.youtube.com/watch?v=E6NO0rgFub4
-[16] https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
-[17] https://www.reddit.com/r/learnprogramming/comments/vxfku6/how_to_write_a_readme/
-[18] https://www.readme-templates.com
-[19] https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[20] https://rahuldkjain.github.io/gh-profile-readme-generator/
-[21] https://github.com/jehna/readme-best-practices
-[22] https://readme.so
-[23] https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[24] https://www.reddit.com/r/programming/comments/l0mgcy/github_readme_templates_creating_a_good_readme_is/
